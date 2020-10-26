@@ -10,5 +10,8 @@ Recent sexual harassment allegations — and past incidents of sexual assault by
 
 <div><img src="https://github.com/EishaMazhar/Safe-pooling-2020/blob/main/Hackday%20Resources/mockup1.jpeg" width="450" />
   <img src="https://github.com/EishaMazhar/Safe-pooling-2020/blob/main/Hackday%20Resources/mockup2.jpeg" width="450" />
+</div>
+ <div>
   <img src="https://github.com/EishaMazhar/Safe-pooling-2020/blob/main/Hackday%20Resources/mockup3.jpeg" width="450" />
+  <img src="https://github.com/EishaMazhar/Safe-pooling-2020/blob/main/Hackday%20Resources/mockup4.jpeg" width="450" />
 </div>
